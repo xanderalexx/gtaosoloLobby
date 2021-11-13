@@ -1,0 +1,7 @@
+C:\Users\Alexander Morales\source\repos\gta online solo lobby\gta online solo lobby\bin\Debug\gta online solo lobby.exe.config
+C:\Users\Alexander Morales\source\repos\gta online solo lobby\gta online solo lobby\bin\Debug\gta online solo lobby.exe
+C:\Users\Alexander Morales\source\repos\gta online solo lobby\gta online solo lobby\bin\Debug\gta online solo lobby.pdb
+C:\Users\Alexander Morales\source\repos\gta online solo lobby\gta online solo lobby\obj\Debug\gta online solo lobby.csprojAssemblyReference.cache
+C:\Users\Alexander Morales\source\repos\gta online solo lobby\gta online solo lobby\obj\Debug\gta online solo lobby.csproj.CoreCompileInputs.cache
+C:\Users\Alexander Morales\source\repos\gta online solo lobby\gta online solo lobby\obj\Debug\gta online solo lobby.exe
+C:\Users\Alexander Morales\source\repos\gta online solo lobby\gta online solo lobby\obj\Debug\gta online solo lobby.pdb
